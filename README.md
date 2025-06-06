@@ -49,12 +49,4 @@ This work combines computer vision, audio processing, and explainable AI to enha
 
 
 
-## Key Highlights
-
-- ✅ Integrated end-to-end pipeline: audio → spectrogram → CNN → explanation.
-- ✅ Handled multi-class classification problem across diverse music genres.
-- ✅ Incorporated explainability to make deep learning predictions more interpretable.
-- ✅ Balanced both technical depth and real-world usability for AI model transparency.
-
-
 
